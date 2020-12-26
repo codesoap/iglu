@@ -33,7 +33,7 @@ secret spend key: 29781966850873b9ec183034adf768ec3bcec4fb4cc1f4fa1297e8225fedb1
 secret view key : 6bab3f01864689e642e50a3545a8acce811326c989dc0abf3c9c5b6099c4540d
 primary address : 43msgHu241y1nUxfpnhWiq89V93BQd6CoJgmShqk5j2L7csCM5oajPXP9KiN1CZHgbH1BTewKBwLLBv5Fd1ZLRj13ZcvHGH
 
-$ # Generate some subaddresses as well:
+$ # Generate some subaddresses as well (with the default account index, which is 0):
 $ iglu -s 5
 secret spend key: 5fd25f12c7fed7aee8d28482f1416a1294ee4fe6fd2bb21188e98d99103cfb00
 secret view key : 3b7c7c44dcbd325fbaa853f981f902f7e5796f910ffa33b09d5bef1d1926ef05

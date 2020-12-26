@@ -18,7 +18,8 @@ import (
 )
 
 var l *big.Int
-var nSubadresses = flag.Int("s", 0, "Number of subaddresses to generate.")
+var nSubadresses = flag.Int("s", 0,
+	"Number of subaddresses to generate. The account index is always 0.")
 
 func init() {
 	var ok bool
