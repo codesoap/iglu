@@ -54,3 +54,8 @@ In order to keep the code simple and because I don't find it necessary
 for a cold wallet, I have decided not to generate mnemonics here. Maybe
 I'll implement a separate tool for converting the secret spend key into
 a mnemonic some day.
+
+# Donating
+If you want to support and animate me to write more
+Monero tools, you may send a little donation to
+`82g6Lj43f8i68iK1pNuDmhfvwRr1owJjvJWayA4cgFxw6CtamrZuP37bf7SnQxaYQbRNXAdVeszyc5WWve3P6LAPGVNtAQ6`.
