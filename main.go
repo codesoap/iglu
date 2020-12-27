@@ -224,7 +224,7 @@ func revertBytes(x *big.Int) *big.Int {
 	return x.SetBytes(bytes)
 }
 
-// toString converts a key into its 32bit hexadecimal representation.
+// toString converts a key into its 32byte hexadecimal representation.
 func toString(x *big.Int) string {
 	bytes := make([]byte, 32, 32)
 	x.FillBytes(bytes)
